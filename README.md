@@ -16,4 +16,4 @@ This project is a simple education management system where administrators can ma
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-repo/education-management-system.git
+   git clone https://github.com/mokariya-mohit/Education-Management.git
